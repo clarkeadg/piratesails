@@ -1,0 +1,36 @@
+{
+  "name": "PirateSails",
+  "version": "0.0.1",
+  "description": "Pirate Sails is an awesome API ARRRRRRR!",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "aws-lib": "~0.3.0",
+    "bcrypt": "~0.7.7",
+    "ejs": "~0.8.4",
+    "fast-csv": "~0.3.0",
+    "feedparser": "~0.16.5",
+    "grunt": "~0.4.1",
+    "leveldown": "~0.10.2",
+    "levelup": "~0.18.3",
+    "memcached": "~0.2.6",
+    "node-uuid": "~1.4.1",
+    "nodemailer": "~0.5.15",
+    "optimist": "~0.3.4",
+    "sails": "0.9.7",
+    "sails-disk": "~0.9.1",
+    "sails-irc": "~0.2.1",
+    "sails-memory": "~0.9.1",
+    "sails-mongo": "~0.9.8",
+    "sails-mysql": "~0.9.5",
+    "sails-redis": "~0.9.3",
+    "sails-riak": "0.0.1",
+    "sails-twitter": "0.0.1",
+    "youtube-api": "~0.2.0"    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spidey",
+  "license": "BSD-2-Clause"
+}
